@@ -1,7 +1,0 @@
-{
-  "name": "KAIRO",
-  "description": "A comprehensive habit and task manager with AI-powered motivation and productivity insights using Gemini.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
